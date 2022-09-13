@@ -4,7 +4,7 @@ import Gun from 'gun'
 
 export const DiscordContext = createContext()
 
-const gun = Gun(['https://discord-gun-node.herokuapp.com/gun'])
+const gun = Gun(['https://rokas-gun.herokuapp.com/'])
 
 const initialState = { messages: [] }
 
