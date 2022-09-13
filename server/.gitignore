@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+/discord/node_modules
+
+/studio/node_modules
+
+/server/node_modules
+
 # testing
 /coverage
 
